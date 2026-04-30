@@ -46,6 +46,6 @@
 ---
 
 ## 📫 Connect With Me
-* 🌐 [Portfolio](https://adityasingh81201.wixsite.com/professional-portfolio)
+* 🌐 [Portfolio](https://adityasingh81201.wixsite.com/professional-portfol)
 * 🔗 [LinkedIn](https://www.linkedin.com/in/aditya-kumar-singh-990377291/)
 * 📧 [Email](mailto:adityasingh81201@gmail.com)

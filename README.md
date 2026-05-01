@@ -21,7 +21,7 @@
 * 🏏 **IPL Match Winner Prediction**  
   Machine learning model to predict match outcomes using IPL dataset.  
   **Tech Stack:** Python, Machine Learning, Power BI, Power Query, Pandas, Scikit-learn  
-  [GitHub](https://github.com/adityakumarsingh01/ipl-match-winner-prediction) | [LinkedIn](https://www.linkedin.com/posts/aditya-kumar-singh-990377291_machinelearning-datascience-ipl-activity-7455642925004115968-89s9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEa2H7wB3GZS-pnk6rWTCs78bg-tTWNujUk)
+  [GitHub](https://github.com/adityakumarsingh01/IPL_MATCH-WINNER-PREDICTION.git) | [LinkedIn](https://www.linkedin.com/posts/aditya-kumar-singh-990377291_machinelearning-datascience-ipl-activity-7455642925004115968-89s9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEa2H7wB3GZS-pnk6rWTCs78bg-tTWNujUk)
 
 * ⚠️ **Risk Behavior Analysis**  
   Analyzed risk-related data to identify patterns and behavioral trends using data analysis techniques.  
@@ -41,7 +41,7 @@
 * 🛒 **Customer Purchase Behavior Analysis**  
   Data analysis project to identify customer buying patterns and segments.  
   **Tech Stack:** Google Forms, Python, Data Analysis  
-  [GitHub](https://github.com/adityakumarsingh01/customer-purchase-analysis) | [LinkedIn](https://www.linkedin.com/posts/aditya-kumar-singh-990377291_customer-purchase-behaviour-analysis-activity-7325953801876582400-DSdo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEa2H7wB3GZS-pnk6rWTCs78bg-tTWNujUk)
+  [GitHub](https://github.com/adityakumarsingh01/Customer-Purchase-Behaviour-Analysis.git) | [LinkedIn](https://www.linkedin.com/posts/aditya-kumar-singh-990377291_customer-purchase-behaviour-analysis-activity-7325953801876582400-DSdo?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEa2H7wB3GZS-pnk6rWTCs78bg-tTWNujUk)
 
 ---
 

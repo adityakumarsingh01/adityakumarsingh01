@@ -18,6 +18,11 @@
 
 ## 🚀 Projects
 
+* 🏥 **MediReporter: AI-Powered Clinical Report Analysis System**  
+  Built an intelligent healthcare NLP application that analyzes clinical reports, generates concise medical summaries, extracts diseases, symptoms, drugs, and treatments, and performs patient risk classification using Deep Learning and Transformer-based models.  
+**Tech Stack:** Python, FastAPI, PyTorch, NLP, BART, BioBERT, HTML, CSS, JavaScript  
+[GitHub](https://github.com/adityakumarsingh01/Medical-Report-Summarization.git) | [LinkedIn](https://www.linkedin.com/posts/aditya-kumar-singh-990377291_artificialintelligence-machinelearning-deeplearning-activity-7473003131535118337-37oc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEa2H7wB3GZS-pnk6rWTCs78bg-tTWNujUk)
+
 * 🏏 **IPL Match Winner Prediction**  
   Machine learning model to predict match outcomes using IPL dataset.  
   **Tech Stack:** Python, Machine Learning, Power BI, Power Query, Pandas, Scikit-learn  

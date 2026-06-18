@@ -8,11 +8,12 @@
 
 ## 🛠️ Skills
 
-* **Languages:** Python, Java, C, C++, SQL
-* **ML / Data Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
-* **BI & Visualization:** Power BI, Excel
-* **Databases & Tools:** MySQL, Jupyter Notebook, VS Code, Git/GitHub, Anaconda
-* **Soft Skills:** Problem-Solving, Adaptability, Leadership
+* **Languages:**	                    Python, Java, C, C++, SQL
+* **Machine Learning & AI:**          Scikit-learn, PyTorch, NLP, Deep Learning, Hugging Face Transformers
+* **Data Analysis & Visualization:**  NumPy, Pandas, Matplotlib, Seaborn, Power BI, Excel
+* **Databases & Tools:**              MySQL, Jupyter Notebook, VS Code, Git/GitHub, FastAPI, Anaconda 
+* **Big Data Technologies:**          Hadoop, Hive, HBase, Spark, Sqoop
+* **Soft Skills:**                    Problem-Solving, Analytical Thinking, Adaptability, Leadership
 
 ---
 

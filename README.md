@@ -19,7 +19,7 @@
 
 ## 🚀 Projects
 
-* 🚀 **InvestIQ: AI-Powered Investment Research Platform**
+* 🚀 **InvestIQ: AI-Powered Investment Research Platform**  
   Developed a full-stack AI-powered investment research platform that provides real-time company analysis, live stock prices, financial metrics, news sentiment analysis, company comparison, and intelligent investment recommendations through a modern interactive dashboard.  
 **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Finnhub API, Alpha Vantage API, JavaScript  
 [Live Demo](https://invest-cdbequc2a-aditya-kumar-singhs-projects-c5e753d6.vercel.app/) | [GitHub](https://github.com/adityakumarsingh01/InvestIQ.git) | [LinkedIn](https://www.linkedin.com/posts/aditya-kumar-singh-990377291_nextjs-reactjs-typescript-ugcPost-7477055234880532480-hmyn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEa2H7wB3GZS-pnk6rWTCs78bg-tTWNujUk)

@@ -10,14 +10,19 @@
 
 * **Languages:**	                    Python, Java, C, C++, SQL
 * **Machine Learning & AI:**          Scikit-learn, PyTorch, NLP, Deep Learning, Hugging Face Transformers
-* **Data Analysis & Visualization:**  NumPy, Pandas, Matplotlib, Seaborn, Power BI, Excel
-* **Databases & Tools:**              MySQL, Jupyter Notebook, VS Code, Git/GitHub, FastAPI, Anaconda 
+* **Data Analysis & Visualization:**  Pandas, NumPy, Matplotlib, Seaborn, Power BI, Excel
+* **Databases & Tools:**              MySQL, Git/GitHub, Jupyter Notebook, VS Code, Next.js, React, Tailwind CSS, FastAPI
 * **Big Data Technologies:**          Hadoop, Hive, HBase, Spark, Sqoop
-* **Soft Skills:**                    Problem-Solving, Analytical Thinking, Adaptability, Leadership
+* **Soft Skills:**                    Problem-Solving, Analytical Thinking, Adaptability, Communication
 
 ---
 
 ## 🚀 Projects
+
+* 🚀 **InvestIQ: AI-Powered Investment Research Platform**
+  Developed a full-stack AI-powered investment research platform that provides real-time company analysis, live stock prices, financial metrics, news sentiment analysis, company comparison, and intelligent investment recommendations through a modern interactive dashboard.  
+**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Finnhub API, Alpha Vantage API, JavaScript  
+[Live Demo](https://invest-cdbequc2a-aditya-kumar-singhs-projects-c5e753d6.vercel.app/) | [GitHub](https://github.com/adityakumarsingh01/InvestIQ.git) | [LinkedIn](https://www.linkedin.com/posts/aditya-kumar-singh-990377291_nextjs-reactjs-typescript-ugcPost-7477055234880532480-hmyn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEa2H7wB3GZS-pnk6rWTCs78bg-tTWNujUk)
 
 * 🏥 **MediReporter: AI-Powered Clinical Report Analysis System**  
   Built an intelligent healthcare NLP application that analyzes clinical reports, generates concise medical summaries, extracts diseases, symptoms, drugs, and treatments, and performs patient risk classification using Deep Learning and Transformer-based models.  

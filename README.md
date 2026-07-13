@@ -8,21 +8,27 @@
 
 ## 🛠️ Skills
 
-* **Languages:**	                    Python, Java, C, C++, SQL
-* **Machine Learning & AI:**          Scikit-learn, PyTorch, NLP, Deep Learning, Hugging Face Transformers
-* **Data Analysis & Visualization:**  Pandas, NumPy, Matplotlib, Seaborn, Power BI, Excel
-* **Databases & Tools:**              MySQL, Git/GitHub, Jupyter Notebook, VS Code, Next.js, React, Tailwind CSS, FastAPI
-* **Big Data Technologies:**          Hadoop, Hive, HBase, Spark, Sqoop
-* **Soft Skills:**                    Problem-Solving, Analytical Thinking, Adaptability, Communication
+* **Languages:** Python, Java, C, C++, SQL
+* **Machine Learning, Deep Learning & NLP:** Scikit-learn, PyTorch, Hugging Face Transformers, NLP
+* **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Excel
+* **Frameworks & Web Technologies:** FastAPI, Next.js, React, Tailwind CSS
+* **Databases & Tools:** MySQL, Git, GitHub, VS Code, Jupyter Notebook
+* **Big Data Technologies:** Hadoop, Hive, HBase, Spark, Sqoop
+* **Soft Skills:** Problem Solving, Analytical Thinking, Teamwork, Communication, Adaptability
 
 ---
 
 ## 🚀 Projects
 
+* 🚀 **InsightForge AI: AI-Powered End-to-End Machine Learning Platform**  
+  Developed a full-stack AI-powered Machine Learning platform that enables users to upload datasets, perform automated data profiling, visualize insights, train ML models, generate AI recommendations, forecast trends, and create professional PDF reports through an interactive dashboard.  
+**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, FastAPI, Python, Scikit-learn, Pandas, NumPy, Recharts, ReportLab, Axios  
+[Live Demo](https://insightforge-ai-sand.vercel.app/) | [GitHub](https://github.com/adityakumarsingh01/InsightForge-AI.git) | [LinkedIn](https://lnkd.in/p/d-9Wafee)
+
 * 🚀 **InvestIQ: AI-Powered Investment Research Platform**  
   Developed a full-stack AI-powered investment research platform that provides real-time company analysis, live stock prices, financial metrics, news sentiment analysis, company comparison, and intelligent investment recommendations through a modern interactive dashboard.  
 **Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Finnhub API, Alpha Vantage API, JavaScript  
-[Live Demo](https://invest-cdbequc2a-aditya-kumar-singhs-projects-c5e753d6.vercel.app/) | [GitHub](https://github.com/adityakumarsingh01/InvestIQ.git) | [LinkedIn](https://www.linkedin.com/posts/aditya-kumar-singh-990377291_nextjs-reactjs-typescript-ugcPost-7477055234880532480-hmyn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEa2H7wB3GZS-pnk6rWTCs78bg-tTWNujUk)
+[Live Demo](https://investiq-omega.vercel.app/) | [GitHub](https://github.com/adityakumarsingh01/InvestIQ.git) | [LinkedIn](https://www.linkedin.com/posts/aditya-kumar-singh-990377291_nextjs-reactjs-typescript-ugcPost-7477055234880532480-hmyn/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEa2H7wB3GZS-pnk6rWTCs78bg-tTWNujUk)
 
 * 🏥 **MediReporter: AI-Powered Clinical Report Analysis System**  
   Built an intelligent healthcare NLP application that analyzes clinical reports, generates concise medical summaries, extracts diseases, symptoms, drugs, and treatments, and performs patient risk classification using Deep Learning and Transformer-based models.  

@@ -11,8 +11,8 @@
 * **Languages:** Python, Java, C, C++, SQL
 * **Machine Learning, Deep Learning & NLP:** Scikit-learn, PyTorch, Hugging Face Transformers, NLP
 * **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Excel
-* **Frameworks & Web Technologies:** FastAPI, Next.js, React, Tailwind CSS
-* **Databases & Tools:** MySQL, Git, GitHub, VS Code, Jupyter Notebook
+* **Frameworks & Web Technologies:** FastAPI, Next.js, React, Tailwind CSS, Django
+* **Databases & Tools:** MySQL, Git, GitHub, VS Code, Jupyter Notebook, MongoDB
 * **Big Data Technologies:** Hadoop, Hive, HBase, Spark, Sqoop
 * **Soft Skills:** Problem Solving, Analytical Thinking, Teamwork, Communication, Adaptability
 

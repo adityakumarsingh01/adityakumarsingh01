@@ -338,7 +338,7 @@ Prediction
 
 <p align="center">
 
-<a href="https://github.com/adityakumarsingh01">
+<a href="https://github.com/adityakumarsingh01/InsightForge-AI.git">
 <img src="https://img.shields.io/badge/🔗_View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -396,7 +396,7 @@ Exploratory Data Analysis
 
 <p align="center">
 
-<a href="https://github.com/adityakumarsingh01">
+<a href="https://github.com/adityakumarsingh01/Cricket-Match-Outcome-Prediction.git">
 <img src="https://img.shields.io/badge/🔗_View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 

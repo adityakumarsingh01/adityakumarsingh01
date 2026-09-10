@@ -709,11 +709,15 @@ Full Stack
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/aditya-kumar-singh-990377291/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="https://portfolio-ecru-one-nzr8n36bhi.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=portfolio&logoColor=white"/>
+</a>
+
+<a href="mailto:adityasingh81201@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
